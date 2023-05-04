@@ -11,5 +11,6 @@
 ## Skills: REACT / NEXT.JS / JS / HTML / CSS / 
 
 
-# Languages:
+# Connect With Me Via:
+[Linkedin](https://www.linkedin.com/in/mohamed-moallin-131161147/)
 
