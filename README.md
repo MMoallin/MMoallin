@@ -1,13 +1,9 @@
-### Hi there and welcome to my GitHub Profile. 👋🏾
+###                                                     Hi there and welcome to my GitHub Profile. 👋🏾
 
-Hi all My names Mohamed a school of code bootcamper and self-taught full stack developer, my hope is to pivot into Tech from an engineering background as I always had the love for innovation development leading to tech being the perfect blend.
+Hi all! My name is Mohamed Moallin a school of code bootcamper and self-taught full stack developer, my hope is to pivot into Tech from an engineering background as I always had the love for innovation development leading to tech being the perfect blend.
 
 - 🔭 I’m currently working on the School Of Code Bootcamp Cohort 14 (16-Week Full stack bootcamp)
 - 🌱 I’m currently learning JS, ReactJS, ExpressJS & NodeJS
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me:
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 💻 Aiming for roles within the Software Engineering Sector
+- ⚽ Hobbies Include: Football, Boxing, Table Tennis & Gym
 -->
