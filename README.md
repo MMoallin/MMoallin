@@ -6,4 +6,4 @@ Hi all! My name is Mohamed Moallin a school of code bootcamper and self-taught f
 - 🌱 I’m currently learning JS, ReactJS, ExpressJS & NodeJS
 - 💻 Aiming for roles within the Software Engineering Sector
 - ⚽ Hobbies Include: Football, Boxing, Table Tennis & Gym
--->
+- 📺 You can connect with me via https://www.linkedin.com/in/mohamed-moallin-131161147/
