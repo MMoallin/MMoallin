@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning JS, ReactJS, ExpressJS & NodeJS
 - 💻 Aiming for roles within the Software Engineering Sector
 - ⚽ Hobbies Include: Football, Boxing, Table Tennis & Gym
-- 📫 How to reach me: Email: mohamed.moallin@outlook.com , LinkedIn : [Linkedin](https://www.linkedin.com/in/mohamed-moallin-131161147/)
+- 📫 How to reach me: Email: mohamed.moallin@outlook.com , LinkedIn : [Link](https://www.linkedin.com/in/mohamed-moallin-131161147/)
 
 
 ## Skills: REACT / NEXT.JS / JS / HTML / CSS / 
