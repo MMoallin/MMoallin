@@ -13,4 +13,4 @@
 
 
 
-![image](https://user-images.githubusercontent.com/126678147/236246221-1be1cfbf-1c49-4ad4-8152-8606c4ad0301.png)
+https://www.google.co.uk/url?sa=i&url=https%3A%2F%2Fwww.pcmag.com%2Freviews%2Flinkedin&psig=AOvVaw0QuLoLw9UQeLHfH062ZSV3&ust=1683298565327000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCLDa6fr12_4CFQAAAAAdAAAAABAE
