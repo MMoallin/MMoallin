@@ -1,4 +1,4 @@
-#                                                   **Hi there and welcome to my GitHub Profile.** 👋🏾
+#                                                   **Welcome to my GitHub Profile.** 👋🏾
 
 ### Hi all! My name is Mohamed Moallin a school of code bootcamper and self-taught full stack developer, my hope is to pivot into Tech from an engineering background as I always had the love for innovation development leading to tech being the perfect blend.
 
